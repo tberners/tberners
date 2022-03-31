@@ -23,11 +23,12 @@
 
 <a href="https://app.daily.dev/tberners"><img src="https://api.daily.dev/devcards/40b8df782ac3416498c9c0432ff5dd0b.png?r=cyj" width="400" alt="Jowan Lewis-Thompson's Dev Card"/></a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jayxddesig47"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jayxddesig47" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tberners&show_icons=true&locale=en&layout=compact" alt="tberners" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tberners&show_icons=true&locale=en" alt="tberners" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tberners&" alt="tberners" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jayxddesig47"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jayxddesig47" /></a></p><br><br>
